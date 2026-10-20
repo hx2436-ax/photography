@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#080808"><meta name="description" content="Photographs by Alex Haotian Xue. An ongoing observation of light, space, and the everyday.">
+<title>Alex Haotian Xue — Photographs</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to photographs</a>
+<header><a class="identity" href="./" aria-label="Alex Haotian Xue home">Alex Haotian Xue<span>Photographs</span></a><nav aria-label="Main navigation"><button id="work-nav" class="active" aria-current="page">Works</button><button id="info-nav">Information</button></nav></header>
+<main id="main">
+<section id="works" aria-label="Photography collection">
+<div class="toolbar"><div class="series"><span class="eyebrow">Selected work</span><label class="sr-only" for="series">Choose series</label><select id="series"><option value="all">All photographs</option></select></div><div class="view-toggle" role="group" aria-label="Gallery layout"><button id="sequence-btn" aria-pressed="true">Sequence</button><span aria-hidden="true">/</span><button id="index-btn" aria-pressed="false">Index</button></div></div>
+<div id="sequence"><figure class="main-figure"><button id="open-viewer" aria-label="Open photograph in fullscreen viewer"><img id="hero" alt="" fetchpriority="high" decoding="async"></button><figcaption><span id="caption"></span><span id="photo-id"></span></figcaption></figure><div class="sequence-bottom"><span id="series-note">Studies of light and space.</span><div class="pagination"><button id="previous" aria-label="Previous photograph">←</button><span id="count" aria-live="polite"></span><button id="next" aria-label="Next photograph">→</button></div></div></div>
+<div id="index" class="index-grid" hidden></div><p id="status" role="status"></p>
+</section>
+<section id="information" hidden><p class="eyebrow">Information</p><h1>Looking, slowly.</h1><div class="info-copy"><p>Alex Haotian Xue</p><p>A collection of photographs exploring light, space, and the details that invite a second look.</p><p>Based in New York.<br>Architecture &amp; urban design.</p><a href="https://hx2436-ax.github.io/portfolio/" target="_blank" rel="noopener">Architecture portfolio ↗</a></div><div class="info-foot">All photographs © Alex Haotian Xue.<br>Please request permission before reproducing images.</div></section>
+<noscript><p>Please enable JavaScript to browse this photographic collection.</p></noscript>
+</main>
+<footer><span>© <span id="year"></span> Alex Haotian Xue</span><span class="footer-note">Light / Space / Observation</span></footer>
+<dialog id="viewer" aria-label="Photograph viewer"><div class="viewer-top"><span id="viewer-title"></span><button id="close-viewer" autofocus aria-label="Close photograph viewer">Close ×</button></div><div id="viewer-image-wrap"><img id="viewer-image" alt=""><p id="viewer-status" role="status"></p></div><div class="viewer-bottom"><button id="viewer-prev" aria-label="Previous photograph">←</button><span id="viewer-count" aria-live="polite"></span><button id="viewer-next" aria-label="Next photograph">→</button></div></dialog>
+</body></html>

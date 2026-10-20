@@ -1,0 +1,212 @@
+{
+  "photos": [
+    {
+      "id": "4313",
+      "title": "Elevation, illuminated",
+      "alt": "A lit architectural model seen in elevation against a dark background.",
+      "series": "Studies in light",
+      "note": "Architectural model studies.",
+      "width": 1536,
+      "height": 864,
+      "src": "assets/4313-1536.webp",
+      "thumbnail": "assets/4313-480.webp",
+      "full": "assets/4313-1536.webp",
+      "variants": [
+        {
+          "url": "assets/4313-480.webp",
+          "width": 480
+        },
+        {
+          "url": "assets/4313-960.webp",
+          "width": 960
+        },
+        {
+          "url": "assets/4313-1536.webp",
+          "width": 1536
+        }
+      ]
+    },
+    {
+      "id": "4230",
+      "title": "Between light and shadow",
+      "alt": "Light filtering through the slender columns of an architectural model.",
+      "series": "Studies in light",
+      "note": "Architectural model studies.",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/4230-1536.webp",
+      "thumbnail": "assets/4230-480.webp",
+      "full": "assets/4230-1536.webp",
+      "variants": [
+        {
+          "url": "assets/4230-480.webp",
+          "width": 480
+        },
+        {
+          "url": "assets/4230-960.webp",
+          "width": 960
+        },
+        {
+          "url": "assets/4230-1536.webp",
+          "width": 1536
+        }
+      ]
+    },
+    {
+      "id": "4347",
+      "title": "A space within",
+      "alt": "Interior model study with screens, stairs, and soft light.",
+      "series": "Studies in light",
+      "note": "Architectural model studies.",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/4347-1536.webp",
+      "thumbnail": "assets/4347-480.webp",
+      "full": "assets/4347-1536.webp",
+      "variants": [
+        {
+          "url": "assets/4347-480.webp",
+          "width": 480
+        },
+        {
+          "url": "assets/4347-960.webp",
+          "width": 960
+        },
+        {
+          "url": "assets/4347-1536.webp",
+          "width": 1536
+        }
+      ]
+    },
+    {
+      "id": "4157",
+      "title": "A quiet facade",
+      "alt": "A frontal view of an architectural model with a broad cantilever.",
+      "series": "Studies in light",
+      "note": "Architectural model studies.",
+      "width": 1536,
+      "height": 864,
+      "src": "assets/4157-1536.webp",
+      "thumbnail": "assets/4157-480.webp",
+      "full": "assets/4157-1536.webp",
+      "variants": [
+        {
+          "url": "assets/4157-480.webp",
+          "width": 480
+        },
+        {
+          "url": "assets/4157-960.webp",
+          "width": 960
+        },
+        {
+          "url": "assets/4157-1536.webp",
+          "width": 1536
+        }
+      ]
+    },
+    {
+      "id": "4182",
+      "title": "Edge of a roof",
+      "alt": "An oblique model view showing a roof and textured ground.",
+      "series": "Studies in light",
+      "note": "Architectural model studies.",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/4182-1536.webp",
+      "thumbnail": "assets/4182-480.webp",
+      "full": "assets/4182-1536.webp",
+      "variants": [
+        {
+          "url": "assets/4182-480.webp",
+          "width": 480
+        },
+        {
+          "url": "assets/4182-960.webp",
+          "width": 960
+        },
+        {
+          "url": "assets/4182-1536.webp",
+          "width": 1536
+        }
+      ]
+    },
+    {
+      "id": "4315",
+      "title": "Across the surface",
+      "alt": "An elongated model facade beneath a slender roof.",
+      "series": "Studies in light",
+      "note": "Architectural model studies.",
+      "width": 1536,
+      "height": 864,
+      "src": "assets/4315-1536.webp",
+      "thumbnail": "assets/4315-480.webp",
+      "full": "assets/4315-1536.webp",
+      "variants": [
+        {
+          "url": "assets/4315-480.webp",
+          "width": 480
+        },
+        {
+          "url": "assets/4315-960.webp",
+          "width": 960
+        },
+        {
+          "url": "assets/4315-1536.webp",
+          "width": 1536
+        }
+      ]
+    },
+    {
+      "id": "4355",
+      "title": "Open framework",
+      "alt": "A model elevation with layered floor plates and structural frames.",
+      "series": "Studies in light",
+      "note": "Architectural model studies.",
+      "width": 1536,
+      "height": 864,
+      "src": "assets/4355-1536.webp",
+      "thumbnail": "assets/4355-480.webp",
+      "full": "assets/4355-1536.webp",
+      "variants": [
+        {
+          "url": "assets/4355-480.webp",
+          "width": 480
+        },
+        {
+          "url": "assets/4355-960.webp",
+          "width": 960
+        },
+        {
+          "url": "assets/4355-1536.webp",
+          "width": 1536
+        }
+      ]
+    },
+    {
+      "id": "4398",
+      "title": "The whole, at a distance",
+      "alt": "An architectural model viewed diagonally on its base.",
+      "series": "Studies in light",
+      "note": "Architectural model studies.",
+      "width": 1536,
+      "height": 864,
+      "src": "assets/4398-1536.webp",
+      "thumbnail": "assets/4398-480.webp",
+      "full": "assets/4398-1536.webp",
+      "variants": [
+        {
+          "url": "assets/4398-480.webp",
+          "width": 480
+        },
+        {
+          "url": "assets/4398-960.webp",
+          "width": 960
+        },
+        {
+          "url": "assets/4398-1536.webp",
+          "width": 1536
+        }
+      ]
+    }
+  ]
+}
